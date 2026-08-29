@@ -1,5 +1,4 @@
 # Monitor Abends
-![Author](https://img.shields.io/badge/Author-Jeferson%20Nochelli-blue)
 
 Programa escrito em **Python** para monitorar **Mainframe job ABENDs via z/OSMF com a interface do ZOWE no VSCODE** _(extenção IBM Z Open Editor)_.
 
