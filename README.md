@@ -6,7 +6,7 @@ O `monitor_abends.py` verifica os jobs automaticamente a cada 5 minutos e envia 
 
 ## Requisitos e Configurações:
 
-1) Após instalar a extensão **IBM Z Open Editor** no VSCode configure o ZOWE. Será carregado o arquivo `zowe_config.json`, é nele que configuramos o host, account e porta do z/OSMF. Configure os campos que estão indicados na imagem abaixo:
+1) Após instalar a extensão **IBM Z Open Editor** no VSCode, configure o ZOWE. Será carregado o arquivo `zowe_config.json`, é nele que configuramos o host, account e porta do z/OSMF. Configure os campos que estão indicados na imagem abaixo:
    
 ![JSON](JSON_FILE.png)   
 
